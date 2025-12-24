@@ -1,0 +1,18 @@
+# Ignore virtual environment
+venv/
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore data files
+data/raw/
+data/interim/
+*.csv
+
+# Ignore models
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
